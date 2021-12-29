@@ -1,0 +1,6 @@
+﻿  candy.cpp
+  main.cpp
+C:\Users\mishi\source\repos\bonus\bonus\main.cpp(44,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\mishi\source\repos\bonus\bonus\candy.cpp(97): warning C4715: 'Candy::operator<': not all control paths return a value
+  bonus.vcxproj -> C:\Users\mishi\source\repos\bonus\x64\Debug\bonus.exe
